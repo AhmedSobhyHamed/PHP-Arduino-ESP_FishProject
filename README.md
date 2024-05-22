@@ -6,11 +6,10 @@ Project made to control, monitor, and store data for a small-scale aquaculture f
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
+- [Project Hardware Images](#Project-Hardware-Images)
 - [License](#license)
 - [Contact](#contact)
 
@@ -109,18 +108,18 @@ This is my first PHP project built from scratch, so you will find a lot of dupli
 
 ## Project Hardware Images
 
-1[](repo-image/1.jpg)
-1[](repo-image/3.jpg)
-1[](repo-image/4.jpg)
-1[](repo-image/5.jpg)
-1[](repo-image/6.jpg)
-1[](repo-image/7.jpg)
-1[](repo-image/8.jpg)
-1[](repo-image/9.jpg)
-1[](repo-image/10.jpg)
-1[](repo-image/11.jpg)
-1[](repo-image/12.jpg)
-1[](repo-image/13.jpg)
+![](repo-image/1.jpg)
+![](repo-image/3.jpg)
+![](repo-image/4.jpg)
+![](repo-image/5.jpg)
+![](repo-image/6.jpg)
+![](repo-image/7.jpg)
+![](repo-image/8.jpg)
+![](repo-image/9.jpg)
+![](repo-image/10.jpg)
+![](repo-image/11.jpg)
+![](repo-image/12.jpg)
+![](repo-image/13.jpg)
 
   <!-- licance -->
 
