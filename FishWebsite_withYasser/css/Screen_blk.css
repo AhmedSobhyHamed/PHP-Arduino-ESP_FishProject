@@ -1,0 +1,46 @@
+/****************************************************************************************/
+/*
+*this file was created under a name of fish farming project
+*creation date: 2023 - 2
+*this file created by Ahmed Abdulal (Ahmed Sobhy)
+*by cooperateing with Dr-Yasser and haidy to provide information about shrimps and aquaculture, this project has been compleated 
+*this file can only used under approval of the auther
+*this file not allowed for sharing or trading
+*/
+/****************************************************************************************/
+
+.simi_black_bk {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 500;
+    top: 0;
+    left: 0;
+}
+
+.running_button {
+    position: fixed;
+    width: 100vw;
+    height: 300px;
+    min-width: 500px;
+    z-index: 501;
+    top: calc(50% - 150px);
+    left: calc(50% - 50vw);
+    background-color: silver;
+    border: slategray;
+    display: flex;
+    justify-content: center;
+}
+
+
+/****************************************************************************************/
+/*
+*this file was created under a name of fish farming project
+*creation date: 2023 - 2
+*this file created by Ahmed Abdulal (Ahmed Sobhy)
+*by cooperateing with Dr-Yasser and haidy to provide information about shrimps and aquaculture, this project has been compleated 
+*this file can only used under approval of the auther
+*this file not allowed for sharing or trading
+*/
+/****************************************************************************************/

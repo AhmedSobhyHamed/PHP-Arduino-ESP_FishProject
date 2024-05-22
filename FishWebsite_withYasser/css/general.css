@@ -1,0 +1,117 @@
+/****************************************************************************************/
+/*
+*this file was created under a name of fish farming project
+*creation date: 2023 - 2
+*this file created by Ahmed Abdulal (Ahmed Sobhy)
+*by cooperateing with Dr-Yasser and haidy to provide information about shrimps and aquaculture, this project has been compleated 
+*this file can only used under approval of the auther
+*this file not allowed for sharing or trading
+*/
+/****************************************************************************************/
+
+body {
+    background-image: url("https://ash-laboratory.com/Projects/FeshProject_Project1/bkgnd.png");
+    background-repeat: repeat;
+    font-family: "Lato", sans-serif;
+}
+
+.the_nav {
+    position: fixed;
+    top: 0;
+    right: 0;
+    border-bottom: 2px solid rgb(24, 12, 82);
+    background-color: rgb(12, 62, 82);
+    color: rgb(247, 246, 218);
+    font-family: "Lato", sans-serif;
+    font-size: 1.5em;
+    font-weight: 500;
+    height: 2.5em;
+    z-index: 120;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    white-space:nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100vw;
+}
+
+
+
+.the_main {
+    margin-top: 1.5em;
+    min-height: calc(100vh - 3.5em);
+    height: calc(100vh - 3.5em);
+    max-height: calc(100vh - 3.5em);
+    color: rgb(0, 0, 0);
+    font-family: "Lato", sans-serif;
+    overflow-y: auto;
+    
+}
+
+.the_main article {
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+    margin-top: 2.5em;
+}
+
+.the_main .section_before {
+    background-color: rgb(16, 13, 59);
+    color: rgb(165, 162, 69);
+    font-family: "Lato", sans-serif;
+    font-size: 2em;
+    font-weight: 800;
+    text-align: center;
+    height: calc(100vh - 2em);
+    width: 10%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.the_main .section_after {
+    background-color: rgb(16, 13, 59);
+    color: rgb(165, 162, 69);
+    font-family: "Lato", sans-serif;
+    font-size: 2em;
+    font-weight: 800;
+    text-align: center;
+    height: calc(100vh - 2em);;
+    width: 10%;
+    position: fixed;
+    bottom: 0;
+    right: 0; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.the_main .section_after:hover , .the_main .section_before:hover {
+    background-color: rgb(15, 72, 90);
+    color: rgb(243, 193, 54);
+}
+
+
+footer {
+    background-color: rgb(13, 26, 29);
+    color: rgb(247, 246, 218);
+    font-family: "Lato", sans-serif;
+    border-top: 2px solid rgb(64, 63, 71);
+    height: 1.5em;
+    text-indent: 10%;
+}
+
+/****************************************************************************************/
+/*
+*this file was created under a name of fish farming project
+*creation date: 2023 - 2
+*this file created by Ahmed Abdulal (Ahmed Sobhy)
+*by cooperateing with Dr-Yasser and haidy to provide information about shrimps and aquaculture, this project has been compleated 
+*this file can only used under approval of the auther
+*this file not allowed for sharing or trading
+*/
+/****************************************************************************************/
